@@ -1,6 +1,6 @@
 # 🧳 Tour Package Sales Dashboard
 
-## Short Description / Purpose
+## Description / Purpose
 The **Tour Package Sales Dashboard** provides a detailed analysis of travel package performance, customer demographics, and booking trends.  
 Its main goal is to help travel businesses and analysts make data-driven decisions by visualizing key insights like revenue, top destinations, and customer behavior.
 
